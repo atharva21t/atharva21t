@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend Development (Javascript to be more specific)
 - 💞️ I’m looking to collaborate on FrontEnd Projects
-- 📫 How to reach me <a href = "atharva.tamhankar.21@gmail.com"></a>
+- 📫 How to reach me atharva.tamhankar.21@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
